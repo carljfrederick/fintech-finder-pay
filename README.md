@@ -67,3 +67,13 @@ Contributions by Carl Frederick.
 ## License
 
 MIT.
+
+## Ganache Account
+
+<img width="1122" alt="Screen Shot 2022-05-08 at 9 04 25 PM" src="https://user-images.githubusercontent.com/95586624/167324361-8e3ab66b-20b9-4248-a341-c311727034f8.png">
+
+---
+
+## Ganache Transactions
+
+<img width="1196" alt="Screen Shot 2022-05-08 at 9 05 23 PM" src="https://user-images.githubusercontent.com/95586624/167324389-7ba17605-940c-443f-b709-6143ec856297.png">
