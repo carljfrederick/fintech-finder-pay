@@ -56,6 +56,10 @@ To use the Fintech Finder Pay application, clone or download the repository to y
 
 You will run the Streamlit application from this terminal instance and run the following command:  streamlit run fintech_finder.py
 
+Add your mnemonic seed phrase (provided by Ganache) to a .env file. When the information has been added, rename the file .env.
+
+<img width="358" alt="Screen Shot 2022-05-08 at 9 19 52 PM" src="https://user-images.githubusercontent.com/95586624/167325097-7e09a0c2-6054-42ef-87e6-31c899b9f072.png">
+
 ---
 
 ## Contributors
